@@ -8,7 +8,7 @@
     "dev": "nodemon ./src/index.js"
   },
   "keywords": [],
-  "author": "param373r",
+  "author": "defaultparam",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
